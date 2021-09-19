@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Timofey</h1>
+<h1 align="center">Hi 👋, I'm Timofey</h1>
 <h3 align="center">A student of CMC MSU</h3>
 
 - 🔭 I’m currently working on [Mesh Extraction algoritms](https://github.com/timofeysaybel/MeshSegmentation)
